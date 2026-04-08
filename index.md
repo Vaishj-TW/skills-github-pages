@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Hello there!
 ---
 # What else, but hello world? 
